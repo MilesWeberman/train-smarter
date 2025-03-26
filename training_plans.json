@@ -1,0 +1,415 @@
+{
+    "plans": [
+      {
+        "level": "beginner",
+        "weeks": 18,
+        "days_per_week": 4,
+        "schedule": [
+          {
+            "week": 1,
+            "total_distance_km": 10,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",    "distance_km": 2 },
+              { "day": "Wednesday","type": "Walk-Run",    "distance_km": 2 },
+              { "day": "Friday",   "type": "Easy Run/Walk","distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Walk-Run","distance_km": 4 }
+            ]
+          },
+          {
+            "week": 2,
+            "total_distance_km": 11,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",     "distance_km": 2 },
+              { "day": "Wednesday","type": "Walk-Run",     "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run/Walk","distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Walk-Run","distance_km": 4 }
+            ]
+          },
+          {
+            "week": 3,
+            "total_distance_km": 12,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Walk-Run",   "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 4 }
+            ]
+          },
+          {
+            "week": 4,
+            "total_distance_km": 14,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Easy Run",   "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 5 }
+            ]
+          },
+          {
+            "week": 5,
+            "total_distance_km": 16,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Tempo or Steady Run","distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 6 }
+            ]
+          },
+          {
+            "week": 6,
+            "total_distance_km": 18,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 7 }
+            ]
+          },
+          {
+            "week": 7,
+            "total_distance_km": 20,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",    "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",    "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",    "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",    "distance_km": 8 }
+            ]
+          },
+          {
+            "week": 8,
+            "total_distance_km": 22,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 9 }
+            ]
+          },
+          {
+            "week": 9,
+            "total_distance_km": 25,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 10 }
+            ]
+          },
+          {
+            "week": 10,
+            "total_distance_km": 28,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Wednesday","type": "Speed or Tempo","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 12 }
+            ]
+          },
+          {
+            "week": 11,
+            "total_distance_km": 31,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Wednesday","type": "Tempo Run",  "distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",  "distance_km": 15 }
+            ]
+          },
+          {
+            "week": 12,
+            "total_distance_km": 34,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 6 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 17 }
+            ]
+          },
+          {
+            "week": 13,
+            "total_distance_km": 36,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 19 }
+            ]
+          },
+          {
+            "week": 14,
+            "total_distance_km": 39,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",     "distance_km": 7 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 21 }
+            ]
+          },
+          {
+            "week": 15,
+            "total_distance_km": 42,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 7 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 24 }
+            ]
+          },
+          {
+            "week": 16,
+            "total_distance_km": 46,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",    "distance_km": 6 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 8 },
+              { "day": "Friday",   "type": "Easy Run",    "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",    "distance_km": 28 }
+            ]
+          },
+          {
+            "week": 17,
+            "total_distance_km": 32,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Wednesday","type": "Tempo Run",  "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",  "distance_km": 18 }
+            ]
+          },
+          {
+            "week": 18,
+            "total_distance_km": 53,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 4 },
+              { "day": "Wednesday","type": "Easy Run",  "distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 3 },
+              { "day": "Sunday",   "type": "Race Day (Marathon)", "distance_km": 42 }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "intermediate",
+        "weeks": 18,
+        "days_per_week": 4,
+        "schedule": [
+          {
+            "week": 1,
+            "total_distance_km": 10,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",    "distance_km": 2 },
+              { "day": "Wednesday","type": "Walk-Run",    "distance_km": 2 },
+              { "day": "Friday",   "type": "Easy Run/Walk","distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Walk-Run","distance_km": 4 }
+            ]
+          },
+          {
+            "week": 2,
+            "total_distance_km": 11,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",     "distance_km": 2 },
+              { "day": "Wednesday","type": "Walk-Run",     "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run/Walk","distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Walk-Run","distance_km": 4 }
+            ]
+          },
+          {
+            "week": 3,
+            "total_distance_km": 12,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Walk-Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Walk-Run",   "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 2 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 4 }
+            ]
+          },
+          {
+            "week": 4,
+            "total_distance_km": 14,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Easy Run",   "distance_km": 3 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 5 }
+            ]
+          },
+          {
+            "week": 5,
+            "total_distance_km": 16,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Wednesday","type": "Tempo or Steady Run","distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 6 }
+            ]
+          },
+          {
+            "week": 6,
+            "total_distance_km": 18,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 7 }
+            ]
+          },
+          {
+            "week": 7,
+            "total_distance_km": 20,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",    "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",    "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",    "distance_km": 3 },
+              { "day": "Sunday",   "type": "Long Run",    "distance_km": 8 }
+            ]
+          },
+          {
+            "week": 8,
+            "total_distance_km": 22,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 9 }
+            ]
+          },
+          {
+            "week": 9,
+            "total_distance_km": 25,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 10 }
+            ]
+          },
+          {
+            "week": 10,
+            "total_distance_km": 28,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Wednesday","type": "Speed or Tempo","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 12 }
+            ]
+          },
+          {
+            "week": 11,
+            "total_distance_km": 31,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Wednesday","type": "Tempo Run",  "distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",  "distance_km": 15 }
+            ]
+          },
+          {
+            "week": 12,
+            "total_distance_km": 34,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 6 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 17 }
+            ]
+          },
+          {
+            "week": 13,
+            "total_distance_km": 36,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 6 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 19 }
+            ]
+          },
+          {
+            "week": 14,
+            "total_distance_km": 39,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",     "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",     "distance_km": 7 },
+              { "day": "Friday",   "type": "Easy Run",     "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",     "distance_km": 21 }
+            ]
+          },
+          {
+            "week": 15,
+            "total_distance_km": 42,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",   "distance_km": 6 },
+              { "day": "Wednesday","type": "Tempo Run",   "distance_km": 7 },
+              { "day": "Friday",   "type": "Easy Run",   "distance_km": 5 },
+              { "day": "Sunday",   "type": "Long Run",   "distance_km": 24 }
+            ]
+          },
+          {
+            "week": 16,
+            "total_distance_km": 46,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",    "distance_km": 6 },
+              { "day": "Wednesday","type": "Speed Workout","distance_km": 8 },
+              { "day": "Friday",   "type": "Easy Run",    "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",    "distance_km": 28 }
+            ]
+          },
+          {
+            "week": 17,
+            "total_distance_km": 32,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 5 },
+              { "day": "Wednesday","type": "Tempo Run",  "distance_km": 5 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 4 },
+              { "day": "Sunday",   "type": "Long Run",  "distance_km": 18 }
+            ]
+          },
+          {
+            "week": 18,
+            "total_distance_km": 53,
+            "note": "Remember to prioritize 7-9 hours of sleep, balanced nutrition, and daily stretching.",
+            "runs": [
+              { "day": "Monday",    "type": "Easy Run",  "distance_km": 4 },
+              { "day": "Wednesday","type": "Easy Run",  "distance_km": 4 },
+              { "day": "Friday",   "type": "Easy Run",  "distance_km": 3 },
+              { "day": "Sunday",   "type": "Race Day (Marathon)", "distance_km": 42 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

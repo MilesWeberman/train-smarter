@@ -1,0 +1,13 @@
+name: train-smartest
+channels:
+  - conda-forge 
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - streamlit
+  - pip
+  - pip:
+    - openpyxl
+    - openai==0.27.0
